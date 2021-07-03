@@ -1,0 +1,23 @@
+
+.body_backgorund{
+  background-image: url('bg1.jpg');
+  background-position: center;
+  background-size: cover;
+}
+h1{
+    font-size: larger;
+    text-decoration: underline, wavy;
+    text-decoration-color: coral;
+    text-emphasis-color: cyan;
+  }
+#myCanvas
+  {
+    border: 15px;
+    height: 600px;
+    background-color: white; 
+    border-style: ridge;
+    font-size: x-large;
+  }
+  span{
+    font-size: 20px;
+  }
